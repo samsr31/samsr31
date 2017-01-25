@@ -47,3 +47,25 @@ _Sam I am_
 ### Test Header 3
 
 [I do not like green eggs and ham](https://en.wikipedia.org/wiki/Dr._Seuss)
+
+# Practice List
+1. Groceries
+  * broccoli
+  * milk
+  * cereal
+  * cheese
+  * bread
+2. Homework
+  1. Basics tasks for 161
+  2. Reading for 584
+  3. Choose project for 842
+3. Do laundry
+4. Other
+
+# Practice Table
+
+This | is | a table
+--- | --- | ---
+I hope | this | works!
+1 | 2 | 3 
+161 | 523 | 581
